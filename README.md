@@ -1,2 +1,2 @@
 # lab1
-Editing readme through codespace.
+Editing readme through codespace
